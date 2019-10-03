@@ -2,7 +2,9 @@
 building an exercise tracker application with freecodecamp tutorial
 
 backend: Express.js
+
 frontend: React.js
+
 Database: MongoDB
 
 basic functions with CURD of exercises and users
