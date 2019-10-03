@@ -7,7 +7,7 @@ Frontend: React.js
 
 Database: MongoDB
 
-basic functions with CURD of exercises and users
+Basic functions with CURD of exercises and users
 
 ## Quick Start
 
