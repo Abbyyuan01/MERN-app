@@ -1,9 +1,9 @@
 # MERN-app
-building an exercise tracker application with freecodecamp tutorial
+Building an exercise tracker application with freecodecamp tutorial
 
-backend: Express.js
+Backend: Express.js
 
-frontend: React.js
+Frontend: React.js
 
 Database: MongoDB
 
